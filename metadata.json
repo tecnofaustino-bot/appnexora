@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Crie. Publique. Evolua.",
+  "description": "Plataforma SaaS moderna para criação de aplicações, páginas e produtos digitais com inteligência artificial, desde a concepção até a publicação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
